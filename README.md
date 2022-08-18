@@ -1,4 +1,5 @@
 # Crime-Detection-Deep-Learning-project
+A Deep leaening project with video analysis and Convolution Neural Network technologies for creating a model which precits where a violent activity is happening in an video or not without human Intervention.
 
 # Problem Statement
 The state CCTV Control Room receives feeds from number of CCTV Cameras across the state. It is not possible to monitor all the camera feeds in live scenario. The solution Should be capable of reading the feeds being received from the cameras and analyses the feeds for any criminal activity
