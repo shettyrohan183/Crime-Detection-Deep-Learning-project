@@ -15,4 +15,5 @@ Currently, surveillance cameras play a vital role to ensure the safety of the pe
 ![ui1](https://user-images.githubusercontent.com/76105128/185426764-3e32524b-2eb0-4520-9170-427a3a36f1a0.jpeg)
 ![ui2](https://user-images.githubusercontent.com/76105128/185426793-0a5ebf45-67b2-4c6b-b68a-4594d082aa9d.jpeg)
 ![map_ss](https://user-images.githubusercontent.com/76105128/185426828-9d4ad5b3-accb-4e8e-b918-16191f9cbf7f.jpeg)
+
 Hotspot Mapping of the locations of the crime detected 
